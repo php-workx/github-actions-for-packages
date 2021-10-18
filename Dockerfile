@@ -1,1 +1,2 @@
-# Your Dockerfile contents go here!
+ROM nginx:1.17
+COPY . /usr/share/nginx/html
